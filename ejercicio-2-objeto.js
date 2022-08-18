@@ -1,5 +1,5 @@
 //creando el objeto
-let persona={
+let persona={ 
     nombre:"Darien",
     apellido:"Pajaro",
     año_de_nacimiento:new Date(1998,09,08).getFullYear(),
