@@ -20,3 +20,6 @@ let persona={
 console.log(persona.nombre_completo())
 console.log(persona.edad())
 console.log(persona.nombre_completo()+" tiene la edad de "+persona.edad()+" años")
+
+let objetojson=JSON.stringify(persona)
+console.log(objetojson)
